@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yuan Yanhui / Test Website"
 title_separator          : "-"
 name                     : &name "Yuan Yanhui"
 description              : &description "..."
@@ -84,9 +84,6 @@ author:
   avatar           : "profile.png"
   bio              : "..."
   location         : "Zhongshan"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
