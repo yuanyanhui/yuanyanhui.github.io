@@ -17,9 +17,10 @@
 repository: "yuanyanhui/yuanyanhui.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 
 comments:
-  provider: "disqus"
-  disqus:
-    shortname: "solorobo"
+  provider  : "staticman_v3"
+  staticman:
+    branch    : "master"
+    endpoint  : https://solostaticman/v3/entry/github/yuanyanhui/yuanyanhui.github.io/
     
 title: solorobo
 email:
