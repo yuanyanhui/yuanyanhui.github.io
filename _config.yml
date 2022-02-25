@@ -17,7 +17,7 @@
 repository: "yuanyanhui/yuanyanhui.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 
 comments:
-  provider  : "staticman_v3"
+  provider  : "staticman_v2"
   staticman:
     branch    : "master"
     endpoint  : https://solostaticman.herokuapp.com/v3/entry/github/yuanyanhui/yuanyanhui.github.io
