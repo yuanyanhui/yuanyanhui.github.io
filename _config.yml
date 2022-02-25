@@ -20,7 +20,7 @@ comments:
   provider  : "staticman_v2"
   staticman:
     branch    : "master"
-    endpoint  : https://solostaticman.herokuapp.com/v3/entry/github/
+    endpoint  : https://solostaticman.herokuapp.com/v3/entry/github/yuanyanhui/yuanyanhui.github.io/
     
 title: solorobo
 email:
