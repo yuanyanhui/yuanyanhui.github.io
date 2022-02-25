@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-repository: "yuanyanhui/yuanyanhui.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+# repository: "yuanyanhui/yuanyanhui.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 
 comments:
   provider  : "staticman_v2"
