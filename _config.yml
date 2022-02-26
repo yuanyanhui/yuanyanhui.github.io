@@ -36,7 +36,7 @@ comments:
   provider  : "staticman_v2"
   staticman:
     branch    : "master"
-    endpoint  : https://solostaticman.herokuapp.com/v3/entry/github/
+    endpoint  : "https://solostaticman.herokuapp.com/v3/entry/github/"
     allowedFields          : ['name', 'email', 'url', 'message']
     commitMessage          : "New comment by {fields.name}"
     filename               : "comment-{@timestamp}"
