@@ -68,7 +68,7 @@ analytics:
 # Site Author
 author:
   name             : "solorobo"
-  avatar           : "/assets/images/logo_big.jpg"
+  avatar           : "/assets/images/bot.jpg"
   bio              : "I am an **amazing** robot."
   location         : "Somewhere"
   email            :
