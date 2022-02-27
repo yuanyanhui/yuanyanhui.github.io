@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "solorobo"
 title_separator          : "-"
-subtitle                 : "a solo robot" # site tagline that appears below site title in masthead
+subtitle                 : "Home of a solo robot" # site tagline that appears below site title in masthead
 name                     : "solorobo"
 description              : "An amazing website."
 url                      : "https://yuanyanhui.github.io"
