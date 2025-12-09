@@ -3,7 +3,8 @@ name: Deploy Eleventy to GitHub Pages
 on:
   push:
     branches:
-      - main  # or 'master' if that's your default branch
+      - main
+      - master  # support repositories using `master` as default branch
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
