@@ -3,7 +3,7 @@ name: Deploy Eleventy to GitHub Pages
 on:
   push:
     branches:
-      - master  # or 'main' if that's your default branch
+      - main  # or 'master' if that's your default branch
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -33,7 +33,7 @@ jobs:
         run: npm ci
 
       - name: Build with Eleventy
-        run: npm run build  # or 'npx @11ty/eleventy' if you don't have a build script
+        run: npx @11ty/eleventy # npm run build or 'npx @11ty/eleventy' if you don't have a build script
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
