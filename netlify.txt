@@ -1,5 +1,0 @@
-Add Comments to a Static Site with Netlify Functions and the GitHub API
-https://www.aleksandrhovhannisyan.com/blog/static-site-comments-github-issues/
-
-Email-based comment moderation with Netlify Functions
-https://greenash.net.au/thoughts/2022/03/email-based-comment-moderation-with-netlify-functions/#comments
