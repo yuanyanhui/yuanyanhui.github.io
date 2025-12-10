@@ -13,8 +13,11 @@ const pluginImages = require("./eleventy.config.images.js");
 module.exports = function(eleventyConfig) {
 	// Copy the contents of the `public` folder to the output folder
 	// For example, `./public/css/` ends up in `_site/css/`
+	// Also copy specific icon files to the site root so browsers can find them
 	eleventyConfig.addPassthroughCopy({
 		"./public/": "/",
+		"./public/img/favicon.ico": "/favicon.ico",
+		"./public/img/apple-touch-icon.png": "/apple-touch-icon.png",
 		"./node_modules/prismjs/themes/prism-okaidia.css": "/css/prism-okaidia.css"
 	});
 
